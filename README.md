@@ -1,5 +1,5 @@
 # Hello! I'm Kunal Kumar Pant
-# An aspiring Machine Learning Engineer
+# An aspiring Data Engineer
 
 # 💫 About Me:
 🔭 Currently Engaged in: Exploring the realm of Sleep Apnea Detection using advanced Machine Learning techniques<br><br>🌱 Continuous Learning: Embracing the nuances of TensorFlow for robust model development, mastering Computer Vision through OpenCV, and enhancing web development skills with CSS and JavaScript<br><br>👯 Seeking Collaborative Opportunities: Passionate about collaborative endeavors, particularly interested in contributing to "πlot," an autonomous driving simulator utilizing Reinforcement Learning and Computer Vision<br><br>👨‍💻 Projects Portfolio: Explore my diverse projects showcased at GitHub, where innovation meets code.<br><br>💬 Expertise: Delve into insightful discussions about Python proficiency, Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Supervised Learning methodologies, Reinforcement Learning, and Internet of Things (IoT)<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, or engage in meaningful tech conversations.
