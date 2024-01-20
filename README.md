@@ -1,8 +1,8 @@
 # Hello! I'm Kunal Kumar Pant
-# An aspiring Data Engineer
+# An aspiring Machine Learning Engineer
 
 # 💫 About Me:
-🔭 Currently Engaged in: Researching on detection of sleep disorders using ML, Learning MLOps<br><br>🌱 Continuous Learning: Pracicing ML by making models for various situations and industries, and enhancing deployement and MLOps skills<br><br>👯 Seeking Collaborative Opportunities: Passionate about collaborative endeavors, particularly interested in contributing to real life problem solving models<br><br>👨‍💻 Projects Portfolio: Explore my diverse projects showcased at GitHub, where innovation meets code.<br><br>💬 Expertise: Delve into insightful discussions about Python proficiency,Machine Laerning Operations, Django, Computer Vision, Supervised Learning methodologies, Reinforcement Learning, and Internet of Things (IoT)<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, or engage in meaningful tech conversations.
+🔭 Currently Engaged in: Researching on clustering websites using ML technqiues, Learning MLOps<br><br>🌱 Continuous Learning: Pracicing ML by making models for various situations and industries, and enhancing deployement and MLOps skills<br><br>👯 Seeking Collaborative Opportunities: Passionate about collaborative endeavors, particularly interested in contributing to real life problem solving models<br><br>👨‍💻 Projects Portfolio: Explore my diverse projects showcased at GitHub, where innovation meets code.<br><br>💬 Expertise: Delve into insightful discussions about Python proficiency,Machine Laerning Operations, Django, Computer Vision, Supervised Learning methodologies, Reinforcement Learning, and Internet of Things (IoT)<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, or engage in meaningful tech conversations.
 
 
 ## 🌐 Socials:
