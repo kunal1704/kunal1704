@@ -38,6 +38,9 @@ Interested in creating intelligence that is:
 - interpretable
 - biologically inspired
 - self-reflective
+
+Open to collaborations:
+- Reach out at `kunal1704s.a@gmail.com
 ```
 
 ---
@@ -51,14 +54,6 @@ Interested in creating intelligence that is:
 > questioning the boundary between mind and machine...
 ```
 
----
-📫 **Email:** `kunal1704s.a@gmail.com`
-
-Open to:
-- AI/ML Research Collaborations
-- Research Engineering Roles
-- Experimental AI Projects
-- Consciousness + Computation Discussions
 
 ---
 
