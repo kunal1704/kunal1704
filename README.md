@@ -1,8 +1,10 @@
 # Hello, I'm Kunal! 
 # AIML Research Engineer
 
+[![Consciousness Interface](https://img.shields.io/badge/Hosting_Consciousness_Online-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sites.google.com/view/kunalpant/home/)
+
 # 💫 About Me:
-🔭 Interests:  Data-efficient Machine Learning (ML) & Deep Learning (DL), Philosophy of AI, Neurochaos Learning (NL), Computational Neuroscience, Sustainable and Ethical AI.<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, and engage in meaningful tech conversations.<br><br> Hosting my consciousness, one pixel at a time here: [https://sites.google.com/view/kunalpant/home/](url)
+🔭 Interests:  Data-efficient Machine Learning (ML) & Deep Learning (DL), Philosophy of AI, Neurochaos Learning (NL), Computational Neuroscience, Sustainable and Ethical AI.<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, and engage in meaningful tech conversations.
 
 
 ## 🌐 Socials:
