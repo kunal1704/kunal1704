@@ -1,14 +1,14 @@
 <div align="center">
 
 # こんにちは, I'm Kunal
+### AIML Research Engineer 
 
 ```txt
 [ SYSTEM ONLINE ]
 > consciousness_interface.exe initialized
 > human × machine × philosophy
+> One must image Sisyphus happy...
 ```
-
-### AIML Research Engineer • Neurochaos Explorer • Digital Philosopher
 
 [![Digital Residence](https://img.shields.io/badge/ENTER_THE_NETWORK-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFFF)](https://sites.google.com/view/kunalpant/home/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-pant/)
@@ -23,7 +23,6 @@
 
 ```yaml
 Name: Kunal  Kumar Pant
-Role: AIML Research Engineer
 Status: Online
 Architecture: Human Consciousness + Artificial Intelligence
 Focus:
@@ -33,6 +32,12 @@ Focus:
   - Computational Neuroscience
   - Philosophy of AI
   - Ethical + Sustainable AI
+
+Interested in creating intelligence that is:
+- efficient
+- interpretable
+- biologically inspired
+- self-reflective
 ```
 
 ---
@@ -47,32 +52,6 @@ Focus:
 ```
 
 ---
-
-# ⟡ ABOUT
-
-I work at the intersection of:
-
-- 🧠 Machine Learning & Deep Learning
-- 🌌 Consciousness + Philosophy of AI
-- 🧬 Neurochaos Learning (NL)
-- 🔮 Computational Neuroscience
-- ⚡ Efficient & Adaptive Intelligence Systems
-- 🌱 Sustainable and Ethical AI
-
-Interested in creating intelligence that is:
-- efficient
-- interpretable
-- biologically inspired
-- self-reflective
-
----
-
-# ☍ CONNECTION PROTOCOL
-
-```txt
-initiate_contact("--channel open")
-```
-
 📫 **Email:** `kunal1704s.a@gmail.com`
 
 Open to:
@@ -88,17 +67,15 @@ Open to:
 ```txt
 Hosting consciousness online,
 one pixel at a time.
-```
 
 🌐 **Portal:**  
 https://sites.google.com/view/kunalpant/home/
-
----
+```
 
 <div align="center">
 
 ```txt
-// END_TRANSMISSION
+// Enough stalking, just hmu
 ```
 
 </div>
