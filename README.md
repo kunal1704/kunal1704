@@ -2,7 +2,7 @@
 # AIML Research Engineer
 
 # 💫 About Me:
-🔭 Interests:  Data-efficient Machine Learning (ML) & Deep Learning (DL), Philosophy of AI, Neurochaos Learning (NL), Computational Neuroscience, Sustainable and Ethical AI.<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, and engage in meaningful tech conversations.
+🔭 Interests:  Data-efficient Machine Learning (ML) & Deep Learning (DL), Philosophy of AI, Neurochaos Learning (NL), Computational Neuroscience, Sustainable and Ethical AI.<br><br>📫 Connect with Me: Reach out at kunal1704s.a@gmail.com to discuss intriguing opportunities, collaborate on exciting projects, and engage in meaningful tech conversations.<br><br> Hosting my consciousness, one pixel at a time here: [https://sites.google.com/view/kunalpant/home/](url)
 
 
 ## 🌐 Socials:
