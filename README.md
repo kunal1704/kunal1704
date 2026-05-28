@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-kumar-pant/)
 [![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunal1704)
 [![Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EBug6G0AAAAJ&hl=en)
+[![Spotify](https://img.shields.io/badge/SPOTIFY-0A0A0A?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31btkxpg7y457njnxnrgd7gsj5be?si=ae90945af22343ab)
 
 </div>
 
