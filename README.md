@@ -70,8 +70,5 @@ https://sites.google.com/view/kunalpant/home/
 
 <div align="center">
 
-```txt
-// Enough stalking, just hmu already
-```
 
 </div>
