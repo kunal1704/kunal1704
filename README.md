@@ -41,7 +41,7 @@ Interested in creating intelligence that is:
 - self-reflective
 
 Open to collaborations:
-- Reach out at `kunal1704s.a@gmail.com`
+- Reach out at `kunalkpant@gmail.com`
 ```
 
 ---
